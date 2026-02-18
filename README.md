@@ -13,13 +13,12 @@ japan-tourism/
 │   └── index.html            # Página principal do projeto
 ├── src/
 │   ├── assets/               # Arquivos estáticos como fontes e imagens
-│   │   ├── fonts/            # Fontes personalizadas
+│   │   ├── icons/            # Icons personalizados
 │   │   └── images/           # Imagens usadas na landing page
 │   ├── css/                  # Estilos CSS
 │   │   ├── reset.css         # Reseta estilos padrão do navegador
 │   │   └── style.css         # Estilos personalizados da página
 │   └── js/                   # Scripts JavaScript
-│       ├── script.js         # Lógica geral da página
 │       └── main.js           # Script principal que contém as funcionalidades do site
 ├── LICENSE                   # Licença do projeto
 └── README.md                 # Arquivo de documentação
@@ -30,12 +29,11 @@ japan-tourism/
 
 Principais seções da landing page:
 
-| Nome   | Descrição                      | Tipo               |
-|--------|--------------------------------|--------------------|
-| header | Cabeçalho com logo e navegação.| Cabeçalho          |
-| main   | Conteúdo principal da página.  | Conteúdo Principal |
-| cards  | Seção de destinos turísticos.  | Cards (Blocos)     |
-| footer | Rodapé com links e informações.| Rodapé             |
+| Nome   | Descrição                       | Tipo               |
+|--------|---------------------------------|--------------------|
+| header | Cabeçalho com logo e navegação. | Cabeçalho do site  |
+| main   | Conteúdo principal da página.   | Conteúdo Principal |
+| footer | Rodapé com links e informações. | Rodapé do site     |
 
 ## Baixar
 
@@ -47,8 +45,13 @@ git clone https://github.com/eliasabrell/japan-tourism.git
 cd japan-tourism
 ```
 
+### Licença
+
+[MIT License](LICENSE).
+Consulte o arquivo `LICENSE` para obter mais detalhes.
+
 ### Autor
 
-[Elias Abreu](https://github.com/eliasabrell)
+[Elias Abreu](https://github.com/eliasabrell).
 
 ---
